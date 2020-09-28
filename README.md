@@ -1,14 +1,14 @@
-###_Giphy Challenge_
+### Giphy Challenge
 
 #### By _**Alyssa Colistro**_
 
-#_About the Project_
+# About the Project 
 
-###_The App is developed using the latest architecture using MVVM, Kotlin, Coroutines and Databinding._
+### The App is developed using the latest architecture using MVVM, Kotlin, Coroutines and Databinding.
 
 ## Instructions to Run:
-1 _Clone project from Github repository_
-2 _Open and Run project in Android Studio_
+* _Clone project from Github repository_
+* _Open and Run project in Android Studio_
 
 ## Architecture:
 * _Clean code architecure with MVVM at presentation Layer_

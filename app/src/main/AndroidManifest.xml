@@ -5,9 +5,9 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:name="com.test.giphy_challenge.MyApplication"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/ic_gif"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/ic_gif_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
